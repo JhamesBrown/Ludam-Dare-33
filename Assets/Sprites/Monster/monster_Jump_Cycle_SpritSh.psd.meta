@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: fee9e4e1dd12b584c8f3eb4738a0156b
+timeCreated: 1440388165
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: monster_Jump_Cycle_SpritSh_0
+    21300002: monster_Jump_Cycle_SpritSh_1
+    21300004: monster_Jump_Cycle_SpritSh_2
+    21300006: monster_Jump_Cycle_SpritSh_3
+    21300008: monster_Jump_Cycle_SpritSh_4
+    21300010: monster_Jump_Cycle_SpritSh_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 130
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: monster_Jump_Cycle_SpritSh_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 328
+        height: 316
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Jump_Cycle_SpritSh_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 130
+        width: 396
+        height: 297
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Jump_Cycle_SpritSh_2
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 231
+        width: 413
+        height: 293
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Jump_Cycle_SpritSh_3
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 244
+        width: 435
+        height: 280
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Jump_Cycle_SpritSh_4
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 222
+        width: 436
+        height: 302
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Jump_Cycle_SpritSh_5
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 159
+        width: 418
+        height: 297
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

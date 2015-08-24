@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: ba7aacaaf3f867c4aa06ab6c30ffb21d
+timeCreated: 1440300234
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: monster_Run_Cycle_SpritSh_0
+    21300002: monster_Run_Cycle_SpritSh_1
+    21300004: monster_Run_Cycle_SpritSh_2
+    21300006: monster_Run_Cycle_SpritSh_3
+    21300008: monster_Run_Cycle_SpritSh_4
+    21300010: monster_Run_Cycle_SpritSh_5
+    21300012: monster_Run_Cycle_SpritSh_6
+    21300014: monster_Run_Cycle_SpritSh_7
+    21300016: monster_Run_Cycle_SpritSh_8
+    21300018: monster_Run_Cycle_SpritSh_9
+    21300020: monster_Run_Cycle_SpritSh_10
+    21300022: monster_Run_Cycle_SpritSh_11
+    21300024: monster_Run_Cycle_SpritSh_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: monster_Run_Cycle_SpritSh_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 245
+        height: 255
+      alignment: 9
+      pivot: {x: .367018491, y: .00912624411}
+      border: {x: 0, y: 2, z: 0, w: 0}
+    - name: monster_Run_Cycle_SpritSh_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 11
+        width: 214
+        height: 257
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Run_Cycle_SpritSh_2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 11
+        width: 211
+        height: 257
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Run_Cycle_SpritSh_3
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 8
+        width: 254
+        height: 260
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Run_Cycle_SpritSh_4
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 6
+        width: 224
+        height: 262
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Run_Cycle_SpritSh_5
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 13
+        width: 214
+        height: 255
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Run_Cycle_SpritSh_6
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 15
+        width: 254
+        height: 253
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 10, w: 0}
+    - name: monster_Run_Cycle_SpritSh_7
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 13
+        width: 235
+        height: 255
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Run_Cycle_SpritSh_8
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 15
+        width: 302
+        height: 253
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Run_Cycle_SpritSh_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 13
+        width: 293
+        height: 255
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Run_Cycle_SpritSh_10
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 11
+        width: 324
+        height: 257
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Run_Cycle_SpritSh_11
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 13
+        width: 295
+        height: 255
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster_Run_Cycle_SpritSh_12
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 11
+        width: 221
+        height: 257
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
